@@ -1,0 +1,6 @@
+C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\bin\Debug\nunit.framework.dll
+C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\bin\Debug\StoryQ.dll
+C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb
