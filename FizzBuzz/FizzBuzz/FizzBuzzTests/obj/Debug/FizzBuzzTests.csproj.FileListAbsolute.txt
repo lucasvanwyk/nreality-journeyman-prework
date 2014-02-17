@@ -4,3 +4,4 @@ C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\Fizz
 C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\bin\Debug\StoryQ.dll
 C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
 C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb
+C:\Users\lvw\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
